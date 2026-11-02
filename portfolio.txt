@@ -1,0 +1,190 @@
+PROJECT PORTOFOLIO
+Urutan Navigasi : Home, Profile, Education, Experience, Projects, Skills, Certificate, Contact Me
+
+HOME
+Ada "Halo, saya Farach Ishbachi." 
+Ada IT Project Management, IT Governance, IT QA, Human Resources, Professional Communications
+ganti inisial F dengan foto profesionalku "profil.png"
+Button Explore My Work (mengarah ke Experience)
+Button Get in touch (mengarah ke Contact Me)
+
+PROFILE
+Lulusan D4 Teknik Informatika Politeknik Negeri Jember dengan IPK 3,82. Memiliki ketertarikan pada bidang IT Governance, Manajemen Proyek TI, Human Resources, serta komunikasi profesional. Memiliki pengetahuan dasar mengenai Tata Kelola Teknologi Informasi dan framework COBIT yang diperoleh selama perkuliahan, serta pengalaman dalam pengembangan aplikasi hingga tahap pengujian, baik manual testing maupun automation testing serta penerapan ISO 9126. Selain itu, memiliki pengalaman memimpin proyek sebagai IT Project Manager Intern selama menjalani magang kuliah di PT. Wesclic Indonesia Neotech. Di luar bidang teknologi informasi, memiliki pengalaman dalam administrasi organisasi himpunan mahasiswa prodi sebagai Sekretaris Utama, serta komunikasi interpersonal dan public speaking dengan aktif sebagai Master of Ceremony (MC) dalam berbagai acara kampus, dan pelayanan pelanggan dengan pengalaman bekerja di industri F&B sebagai kasir dan waitress yang melibatkan interaksi langsung dengan pelanggan, serta operasional bisnis. Berbagai pengalaman linier dan lintas bidang tersebut membentuk kemampuan saya dalam berpikir analitis, mengelola dokumentasi, berkoordinasi dengan berbagai pihak, serta beradaptasi dan berinteraksi langsung dengan berbagai karakter individu, sehingga siap mengembangkan kompetensi serta berkontribusi dalam bidang Tata Kelola TI maupun hubungan industrial dan operasional sumber daya manusia.
+
+EDUCATION
+Logo kampus "logo polije.png"
+2022 - 2026
+IPK 3.82/4.00
+D4 Teknik Informatika
+Politeknik Negeri Jember
+
+Logo sekolah "logo smk.png"
+2019 - 2022
+Teknik Komputer dan Jaringan
+SMKN 2 Pasuruan
+
+EXPERIENCE (dibagi menjadi 3 akademik, non-akademik, pengalaman kerja)
+-> Akademik
+01 IT Project Manager 2025
+PT. Wesclic Indonesia Neotech
+Mirota (Proyek Magang)
+Mengelola dan memantau progres proyek pengembangan aplikasi yaitu aplikasi Mirota hingga tahap serah terima dengan stakeholder untuk pelaksanaan dan penyesuaian proyek sesuai rencana.
+Memfasilitasi dan memimpin kegiatan daily dan weekly Scrum untuk memantau progres pekerjaan, mengidentifikasi kendala, serta menyelaraskan prioritas dan koordinasi tim.
+Mengelola penugasan dan pemantauan pekerjaan menggunakan Asana serta menjadi penghubung antara tim developer, tester, dan stakeholder untuk memastikan progres proyek terdokumentasi, tugas terorganisasi, serta kendala teridentifikasi dan terselesaikan dengan baik.
+
+02 IT Project Manager 2025
+Politeknik Negeri Jember
+ERMI Ar-Raoudhoh (Proyek Semester 6)
+Berhasil memimpin pengembangan aplikasi perpustakaan digital untuk membantu pengelolaan koleksi buku dan pemantauan aktivitas literasi siswa serta guru.
+Menyusun dan memantau pembagian tugas tim menggunakan Trello agar setiap pekerjaan dapat diselesaikan sesuai prioritas.
+Menerapkan metode Agile Scrum untuk mengatur proses pengembangan, memantau progres, dan mengevaluasi hasil pekerjaan tim.
+Mengoordinasikan anggota tim dalam menyelesaikan kendala selama proses pengembangan aplikasi.
+
+03 IoT Engineer 2024
+Politeknik Negeri Jember
+Let-Twin (Proyek Semester 5)
+Mengembangkan sistem monitoring nutrisi hidroponik selada berbasis IoT yang mengintegrasikan aplikasi dengan visualisasi objek 3D.
+Mengintegrasikan ESP32 dengan sensor TDS untuk membaca konsentrasi nutrisi dan sensor ultrasonik untuk memantau ketinggian air pada instalasi hidroponik.
+Berkolaborasi dengan IoT Developer mengimplementasikan protokol MQTT untuk mengirimkan data sensor agar dapat diterima dan ditampilkan pada aplikasi monitoring.
+Melakukan pengujian integrasi perangkat keras dan aplikasi untuk memastikan data hasil pembacaan sensor dapat dikirim dan ditampilkan dengan baik.
+
+04 IT Project Manager 2024
+Politeknik Negeri Jember
+CODINGGO (Proyek Semester 4)
+Mengelola pengembangan aplikasi pembelajaran dan kursus online yang menyediakan akses materi serta pembelajaran pemrograman.
+Menyusun daftar pekerjaan, membagi tugas, dan memantau progres pengembangan aplikasi menggunakan Trello.
+Menerapkan metode Scrum untuk mengatur tahapan pengerjaan, melakukan koordinasi rutin, dan mengevaluasi pencapaian tim.
+Memastikan pengembangan fitur berjalan sesuai kebutuhan aplikasi dan target penyelesaian proyek.
+
+05 Software Quality Assurance 2023
+Politeknik Negeri Jember
+SICEDAS (Proyek Semester 3)
+Melakukan pengujian kualitas aplikasi web penjualan makanan ringan pedas untuk memastikan fungsi sistem berjalan sesuai kebutuhan.
+Menyusun skenario dan test case menggunakan metode Black Box Testing berdasarkan fungsi dan alur penggunaan aplikasi.
+Menguji fitur aplikasi, mengidentifikasi ketidaksesuaian hasil aktual dengan hasil yang diharapkan, serta mendokumentasikan temuan pengujian.
+Menggunakan standar ISO 9126 sebagai acuan evaluasi kualitas perangkat lunak.
+
+06 IT Project Manager 2023
+Politeknik Negeri Jember
+DAIKO (Proyek Semester 2)
+Meninjau kebutuhan dan fungsionalitas aplikasi penjualan toko kelontong sebagai dasar penyusunan pengujian perangkat lunak.
+Menyusun Product Backlog Item (PBI) untuk merinci kebutuhan fitur dan pekerjaan yang perlu dikembangkan.
+Mengelola pencatatan tugas serta memantau progres pengembangan dan pengujian menggunakan Trello.
+Berkolaborasi dengan tim menggunakan pendekatan Scrum untuk memastikan setiap kebutuhan fitur ditangani sesuai prioritas.
+
+-> Non-Akademik
+01 Sekretaris Utama 2023 - 2024
+KEMATIF (Keluarga Mahasiswa Teknik Informatika)
+Politeknik Negeri Jember
+Menjabat sebagai Sekretaris Utama Himpunan Mahasiswa Program Studi KEMATIF, dengan tanggung jawab mengelola administrasi organisasi, menyusun dan mencatat surat-menyurat, serta melakukan pengarsipan dokumen secara sistematis. Selain itu, melakukan koordinasi dengan pengurus dan anggota organisasi termasuk membuat jadwal rapat rutin organisasi untuk mendukung kelancaran komunikasi serta pelaksanaan kegiatan. Pengalaman ini mengembangkan kemampuan administrasi, pengelolaan dokumen, komunikasi, koordinasi tim, ketelitian, dan manajemen waktu.
+kumpulan foto : "sertif kematif.jpeg", "kegiatan kematif.jpeg", "sekr kematif.jpg", "mc_exhb.jpg"
+
+02 Master of Ceremony (MC) 2022 — 2024
+TIF Exhibition & Kaprodi Cup
+Politeknik Negeri Jember
+Memandu jalannya acara sesuai kegiatan, meliputi pembukaan dan penutupan acara, pengenalan pembicara serta tamu undangan, dan penyampaian informasi kepada peserta untuk memastikan acara berlangsung tertib, lancar, dan menarik.
+Berkoordinasi dengan panitia dan pihak terkait untuk memastikan kesesuaian alur acara, menjaga interaksi dengan audiens, serta menyesuaikan gaya komunikasi dengan situasi dan karakteristik audiens.
+Berimprovisasi dalam menyampaikan informasi dan mengelola transisi antarsegmen acara sesuai situasi.
+kumpulan foto : "mc_workshop.jpg", "mc_futsal cup.jpg", "mc_exhibition 2023.jpg", "mc_exhibition 2022.MOV", "mc_esports.jpeg", 
+
+-> Pengalaman Kerja
+01 Cashier 2026
+KAVA Cafe
+Mengelola kampanye media sosial di berbagai platform untuk membangun brand awareness.
+Berhasil meningkatkan followers akun media sosial cafe sebesar 50% dan engagement membership sebesar 40% dalam waktu 1 tahun.
+Menganalisis performa konten menggunakan data analitik untuk meningkatkan efektivitas strategi.
+kumpulan foto : "crew_kava.jpeg"
+
+02 Cashier & Waitress 2026
+DIMSUMCOY
+Memberikan pelayanan kepada pelanggan, menerima dan mencatat pesanan, serta menyajikan makanan dan minuman untuk memastikan kepuasan pelanggan.
+Mengoperasikan sistem Point of Sale (POS) untuk memproses transaksi pembayaran secara akurat.
+Bertanggung jawab atas pembukaan dan penutupan kasir, penghitungan, serta penyetoran uang hasil penjualan.
+Melakukan penawaran produk dan upselling sesuai kebutuhan pelanggan untuk mendukung peningkatan penjualan.
+Menyusun laporan penjualan dan belanja harian menggunakan spreadsheet guna memastikan pencatatan transaksi dan administrasi berjalan tertib.
+Berkoordinasi dengan tim operasional dalam menjaga kelancaran pelayanan dan aktivitas harian restoran.
+kumpulan foto : "crew_coy.jpeg"
+
+PROJECTS
+untuk projects sudah bagus card dan isiannya, hanya tambahkan foto sesuai card project berikut
+LetApp
+kumpulan foto : "iot dash.jpg", "iot anal.jpg", "iot lapang.jpg", "iot uat.jpg", "iot ww.jpg" (dahulukan foto dash dan anal)
+
+Mirota 
+foto magang : "wes1.jpeg", "wes2.jpeg"
+untuk mirota tambahkan info kalau dokumentasi project dilindungi oleh PT. Wesclic Indonesia Neotech
+
+ERMI Ar-Roudhoh
+kumpulan foto : "ermi1.png", "ermi2.png", "ermi3.png", "ermi4.png"
+link trello : https://trello.com/w/ermiworkspace
+
+Let-Twin
+kumpulan foto : "let1.png", "let2.png", "let3.png", "let4.jpeg", "let5.jpeg", "let6.jpeg", "let7.jpeg"
+
+Codinggo
+kumpulan foto : "cdg1.png", "cdg2.png", "cdg3.png", "cdg4.png", "cdg5.png", "cdg6.jpeg"
+link trello : https://trello.com/w/apajir
+
+SICEDAS
+kumpulan foto : "cedas1.png", "cedas2.png", "cedas3.png", "cedas4.png", "cedas5.png", "cedas6.png", "cedas7.png", "cedas8.png"
+
+DAIKO
+kumpulan foto : "daiko1.png", "daiko2.png", "daiko3.png", "daiko4.png"
+link trello : https://trello.com/w/aplikasidaiko
+
+
+SKILLS
+Technical Skills
+IT Project Management
+IT Governance
+Agile Scrum
+COBIT Framework
+Project Management Tools (Asana, Trello, ProjectLibre)
+Basic & Logic Programming
+
+Soft Skills
+Communication
+Public Speaking
+Leadership
+Teamwork & Collaboration
+Problem Solving
+Time Management
+Attention to Detail
+
+
+CERTIFICATE
+Web Developer/Pengembang Web 2026
+Badan Nasional Sertifikasi Profesi (BNSP)
+foto sertifikat : "bnsp1.jpg", "bnsp2.jpg"
+
+English Proficiency Test (EPT) 2026
+UPA Bahasa Politeknik Negeri Jember
+foto sertifikat : "ept.jpg"
+
+Juara 1 Aplikasi Terbaik 2024
+TIF EXHIBITION 2023/2024
+foto sertif : "apk1.png", "apk2.png" 
+
+Juara 2 Video Aplikasi Terbaik 2024
+TIF EXHIBITION 2023/2024
+foto sertif : "video1.png", "video2.png"
+
+Belajar Agile Scrum bagi Manajer Pengembangan Produk 2023
+G2 Academy | Prakerja
+foto sertifikat : "sertif scrum_prakerja.jpg"
+
+Juara Harapan 2 Aplikasi Terbaik 2023
+TIF EXHIBITION 2022/2023
+foto sertif : "harapan1.png", "harapan2.png"
+
+
+CONTACT ME
+button linkedin, email, dan Instagram dengan link berikut
+Link linkedin : https://www.linkedin.com/in/farach-ishbachi-23102k4
+email : faraishbch@gmail.com
+link Instagram : https://www.instagram.com/fffarachh
+
+sertakan foto sesuai card dan foto yang di mention di file image E:\MAGANGHUB\farach-portfolio-vercel\image
+buat minimalis elegan dan kreatif, pertahankan warna tema pink putih nya, aku ingin portfolio ku terasa seperti portfolio mahasiswa aktif dengan cara kamu pandai meletakkan posisi dan kombinasi fotonya
+untuk desain dan kebutuhan lainnya seperti peletakan link trello sesuaikan seperti portofolio profesional pada umumnya
+
